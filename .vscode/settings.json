@@ -7,5 +7,12 @@
 		"**/.DS_Store": true,
 		"**/*.o": true,
 		"**/*.exe": true,
+	},
+	"files.associations": {
+		"cmath": "c",
+		"*.tcc": "c",
+		"saving.h": "c",
+		"bird_chirp.h": "c",
+		"*.m": "c"
 	}
 }
